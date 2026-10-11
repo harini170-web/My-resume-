@@ -538,7 +538,7 @@ footer span {
       <!-- Change to your own photo file -->
        <div class="photo">
   <img
-      src="https://i.ibb.co/c0P67sM/Whats-App-Image-2026-10-11-at-11-47-35-PM.jpg" alt="Whats App Image 2026 10 11 at 11 47 35 PM" border="0"></a>
+      src="myphoto.jpg" alt="myphoto.jpg" border="0"></a>
     alt="My Photo"
     onerror="this.style.display='none'; this.parentElement.style.background='#31d9a0'; this.parentElement.innerHTML='<div style=&quot;color:#09231b;padding:75px 10px;text-align:center;font-weight:bold&quot;>ADD YOUR PHOTO HERE</div>';"
   >
